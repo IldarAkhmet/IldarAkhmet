@@ -18,7 +18,7 @@
 - 🐒 Обожаю животных.  
   
 
-- 📫 Как связаться со мной: @IldarAkhmet  
+- 📫 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/IldarAkhmet) 
   
 
 <br/>  

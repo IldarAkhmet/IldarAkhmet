@@ -24,18 +24,9 @@
 <br/>  
 
 
-## My Skill Set  
+## 💻 Технологии  
 <table><tr><td valign="top" width="33%">
 
-
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-  
-</div>
-
-</td><td valign="top" width="33%">
 
 <div>  
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -72,14 +63,9 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
+### 💻 Codewars:
 
-<br/>  
-
-  
-
-<br/>  
+![codewars](https://www.codewars.com/users/%20mentiroso/badges/large)
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=IldarAkhmet&&style=flat-square" align="center" />

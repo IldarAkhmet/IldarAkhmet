@@ -12,7 +12,9 @@
     <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
   </a> 
 </div>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=IldarAkhmet&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=IldarAkhmet&&style=flat-square" align="center" />
+</div>  
 <div align="center">
   <h1>
     Привет 👋, меня зовут Ильдар!
@@ -60,31 +62,12 @@
 
 ---
 
-### 🤝 Связь со мной  
-<div align="center">
-  <a href="https://github.com/https://github.com/IldarAkhmet" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://t.me/IldarAkhmet" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-  </a>
-  <a href="https://www.kaggle.com/https://www.kaggle.com/ildarakhm" target="_blank">
-    <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-  </a>  
-</div>  
-  
----
-
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/%20mentiroso/badges/large)
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=IldarAkhmet&&style=flat-square" align="center" />
-</div>  
+![codewars](https://www.codewars.com/users/%20mentiroso/badges/large) 
 
 ---
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=IldarAkhmet&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
 
  
 

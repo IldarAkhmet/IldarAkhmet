@@ -1,3 +1,6 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500">
+<br><br>
+
 # <div align="center">Привет 👋, меня зовут Ильдар!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&pause=10&color=FFFFFF&width=230&height=50&lines=Data+Scientist+%F0%9F%94%A5)](https://git.io/typing-svg)

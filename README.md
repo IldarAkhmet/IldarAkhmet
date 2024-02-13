@@ -2,13 +2,13 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 <div id="badges" align="center">
-  <a href="https://github.com/https://github.com/IldarAkhmet" target="_blank">
+  <a href="https://github.com/IldarAkhmet" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
   <a href="https://t.me/IldarAkhmet" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
   </a>
-  <a href="https://www.kaggle.com/https://www.kaggle.com/ildarakhm" target="_blank">
+  <a href="https://www.kaggle.com/ildarakhm" target="_blank">
     <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
   </a> 
 </div>

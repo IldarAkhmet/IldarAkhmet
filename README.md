@@ -61,6 +61,7 @@
   <a href="https://seaborn.pydata.org/" target="_blank" style="margin: 10px" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" style="margin: 10px" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="40" height="40" alt="C++" /></a>
 </div>
+
 ---
 
 ### 📖 Мои проекты: 

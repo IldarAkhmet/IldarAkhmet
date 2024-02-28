@@ -27,9 +27,9 @@
 
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
-|Проект 1  Создание рекомендательной системы для постов  (__[github](https://github.com/IldarAkhmet/RecomendedSystem)__)|Анализ данных о пользователях и постах, извлечение новых признаков. Создание и валидирование модели машинного обучения. Создание сервиса RestAPI для вывода модели в прод.|pandas,numpy,seaborn,  matplotlib,fastapi,sklearn,  sqlalchemy|
-|Проект 2 Телеграм бот детектирующий спам в тексте  (__[github](https://github.com/IldarAkhmet/SpamDestroyerBot)__)|Анализ данных, создание на их основе эмбеддингов. Создание нейронной сети на архитектуре TextCNN, создание датасетов для обучения. Связь телеграм бота с моделью.|pandas,pytorch,  aiogram,fasttext|
-|Проект 3 Предсказание цен на квартиры  (__[github](https://github.com/IldarAkhmet/houseMarket)__)|Анализ данных, извлечение новых признаков. Создание и валидирование модели машинного обучения. Создание сервиса RestAPI для вывода модели в прод.|pandas,seaborn,matplotlib,numpy,sklearn,  sqlalchemy,fastapi|
+|Проект 1  Создание рекомендательной системы для постов  (__[github](https://github.com/IldarAkhmet/RecomendedSystem)__)|Анализ данных о пользователях и постах, извлечение новых признаков. Создание и валидирование модели машинного обучения. Создание сервиса RestAPI для вывода модели в прод.|pandas,seaborn,matplotlib,  numpy,scikit-learn,sqlalchemy  ,fastapi,postgresql|
+|Проект 2 Телеграм бот детектирующий спам в тексте  (__[github](https://github.com/IldarAkhmet/SpamDestroyerBot)__)|Анализ данных, создание на их основе эмбеддингов. Создание нейронной сети на архитектуре TextCNN, создание датасетов для обучения. Связь телеграм бота с моделью.|pandas,seaborn,matplotlib,  numpy,scikit-learn,pytorch,  fasttext,sqlalchemy,aiogram,  postgresql|
+|Проект 3 Предсказание цен на квартиры  (__[github](https://github.com/IldarAkhmet/houseMarket)__)|Анализ данных, извлечение новых признаков. Создание и валидирование модели машинного обучения. Создание сервиса RestAPI для вывода модели в прод.|pandas,seaborn,matplotlib,  numpy,scikit-learn,sqlalchemy  ,fastapi,postgresql|
 |Хакатон 1 Детектирование сломанных дисков в гирлянде изоляторов  (__[github](https://github.com/IldarAkhmet/broke_insulators)__)|Анализ данных, разметка b-box'ов для данных. Создание и валидирование модели нейронной сети.|pytorch, yolov8|
 
 ---
